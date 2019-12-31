@@ -61,7 +61,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.FunctionDemo">
     <configuration name="CollectorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -198,10 +198,10 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-1266" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577777315656" />
-    <state x="-1120" y="24" key="CommitChangelistDialog2" timestamp="1577782058496">
+    <state x="-1120" y="24" key="CommitChangelistDialog2" timestamp="1577782102268">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-1120" y="24" key="CommitChangelistDialog2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782058496" />
+    <state x="-1120" y="24" key="CommitChangelistDialog2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782102268" />
     <state x="-940" y="171" key="FileChooserDialogImpl" timestamp="1577780272834">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
@@ -238,10 +238,14 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-941" y="152" key="RollbackChangesDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577780217672" />
-    <state x="-1293" y="125" width="1202" height="715" key="SettingsEditor" timestamp="1577781541587">
+    <state x="-1293" y="125" width="1202" height="715" key="SettingsEditor" timestamp="1577782096814">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-1293" y="125" width="1202" height="715" key="SettingsEditor/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577781541587" />
+    <state x="-1293" y="125" width="1202" height="715" key="SettingsEditor/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782096814" />
+    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2" timestamp="1577782077880">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782077880" />
     <state x="-935" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577780207184">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
