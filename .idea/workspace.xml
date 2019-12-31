@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c1dc9d-cae9-4b3a-b34e-948d7dc77ebe" name="Default Changelist" comment="" />
+    <list default="true" id="77c1dc9d-cae9-4b3a-b34e-948d7dc77ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java8/ForEachDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/InterfaceDefaultMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,9 +67,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.FunctionDemo">
+  <component name="RunManager" selected="Application.ForEachDemo">
     <configuration name="CollectorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8.CollectorsDemo" />
+      <module name="MyJavaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.ForEachDemo" />
       <module name="MyJavaDemo" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +107,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterfaceDefaultMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.InterfaceDefaultMethodDemo" />
+      <module name="MyJavaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEachDemo" />
+        <item itemvalue="Application.InterfaceDefaultMethodDemo" />
         <item itemvalue="Application.FunctionDemo" />
         <item itemvalue="Application.CollectorsDemo" />
       </list>
@@ -119,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577774448506</updated>
-      <workItem from="1577774452126" duration="5730000" />
+      <workItem from="1577774452126" duration="6903000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1577779831349</created>
@@ -163,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577782032831</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1577782073827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577782073827</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1577782152575</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577782152576</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,10 +244,14 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-1266" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577777315656" />
-    <state x="-1120" y="24" key="CommitChangelistDialog2" timestamp="1577782102268">
+    <state x="-915" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1577782407928">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-1120" y="24" key="CommitChangelistDialog2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782102268" />
+    <state x="-915" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782407928" />
+    <state x="-1120" y="24" key="CommitChangelistDialog2" timestamp="1577782151952">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1120" y="24" key="CommitChangelistDialog2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782151952" />
     <state x="-940" y="171" key="FileChooserDialogImpl" timestamp="1577780272834">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
@@ -218,22 +268,22 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-934" y="135" key="Github.UntrackedFilesDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577779728689" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1577782037849">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1577783236531">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782037849" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1577782037849">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577783236531" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1577783236531">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782037849" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1577782037849">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577783236531" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1577783236531">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782037849" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1577782037849">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577783236531" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1577783236531">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782037849" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577783236531" />
     <state x="-941" y="152" key="RollbackChangesDialog" timestamp="1577780217672">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
@@ -242,10 +292,10 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-1293" y="125" width="1202" height="715" key="SettingsEditor/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782096814" />
-    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2" timestamp="1577782077880">
+    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2" timestamp="1577782155693">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782077880" />
+    <state x="-1128" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577782155693" />
     <state x="-935" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577780207184">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
