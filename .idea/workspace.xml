@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c1dc9d-cae9-4b3a-b34e-948d7dc77ebe" name="Default Changelist" comment="" />
+    <list default="true" id="77c1dc9d-cae9-4b3a-b34e-948d7dc77ebe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\JAVA\IdeaProject\MyJavaDemo" />
+        <option value="D:\JAVA\IdeaProject\MyJavaDemo\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,7 +39,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1VjlaWyT6lYaRvfftjc79ZBjvUB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,12 +106,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577774448506</updated>
-      <workItem from="1577774452126" duration="3396000" />
+      <workItem from="1577774452126" duration="3640000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1577779831349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577779831349</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1577779855201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577779855201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1577779890623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577779890623</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1128" y="89" key="#Project_Structure" timestamp="1577779492389">
@@ -113,18 +153,22 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-1266" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577777315656" />
-    <state x="-1120" y="24" key="CommitChangelistDialog2" timestamp="1577779854426">
+    <state x="-1120" y="24" key="CommitChangelistDialog2" timestamp="1577780026059">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-1120" y="24" key="CommitChangelistDialog2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577779854426" />
+    <state x="-1120" y="24" key="CommitChangelistDialog2/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577780026059" />
+    <state x="-940" y="171" key="FileChooserDialogImpl" timestamp="1577780140331">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-940" y="171" key="FileChooserDialogImpl/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577780140331" />
     <state x="-901" y="343" width="385" height="174" key="Github.CreateGistDialog" timestamp="1577779542377">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-901" y="343" width="385" height="174" key="Github.CreateGistDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577779542377" />
-    <state x="-866" y="247" key="Github.ShareDialog" timestamp="1577779718194">
+    <state x="-866" y="247" key="Github.ShareDialog" timestamp="1577779923899">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
-    <state x="-866" y="247" key="Github.ShareDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577779718194" />
+    <state x="-866" y="247" key="Github.ShareDialog/0.0.1440.860/-1440.0.1440.860@-1440.0.1440.860" timestamp="1577779923899" />
     <state x="-934" y="135" key="Github.UntrackedFilesDialog" timestamp="1577779728689">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
