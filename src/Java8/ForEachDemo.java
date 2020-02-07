@@ -13,7 +13,7 @@ public class ForEachDemo {
     public static void main(String[] args) {
         Arrays.asList("你好", "蒋坤", "上海").forEach(System.out::println);
 
-        Map<String, Integer> map = new HashMap<>() {
+        Map<String, Integer> map = new HashMap() {
             {
                 put("A", 10);
                 put("A", 10);

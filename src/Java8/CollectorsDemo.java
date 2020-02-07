@@ -59,7 +59,7 @@ public class CollectorsDemo {
      */
     static void JoiningExample() {
         List<String> list = Arrays.asList("a", "b", "c", "d");
-        var result = list.stream().map(x -> x.toUpperCase()).collect(Collectors.joining(",", "[", "]"));
+        String result = list.stream().map(x -> x.toUpperCase()).collect(Collectors.joining(",", "[", "]"));
         System.out.println(result);
     }
 
@@ -92,7 +92,7 @@ public class CollectorsDemo {
      * 时间: 2019/12/31
      */
     static void ToListExample() {
-        var list = Stream.of("AA", "BB", "CC").collect(Collectors.toList());
+        List<String> list = Stream.of("AA", "BB", "CC").collect(Collectors.toList());
         list.forEach(s -> System.out.println(s));
     }
 
